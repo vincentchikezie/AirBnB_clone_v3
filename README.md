@@ -22,7 +22,7 @@ The console is a segment of the AirBnB project at ALX, that will collectively co
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
 
 ## Installation
-* Clone this repository: `git clone "https://github.com/alexaorrico/AirBnB_clone.git"`
+* Clone this repository: `git clone "https://github.com/Vinspoint-ALX/AirBnB_clone_v3.git"`
 * Access AirBnb directory: `cd AirBnB_clone`
 * Run hbnb(interactively): `./console` and enter command
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
@@ -154,8 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Chikezie Vincent - [Github](https://github.com/Vinspoint-ALX)  
-Alphatech Olubode - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/ChikezieVincen2)
+Chikezie Vincent - [Github](https://github.com/Vinspoint-ALX) / [Twitter](https://twitter.com/ChikezieVincen2)
 
 Second part of Airbnb: Joann Vuong
 ## License
